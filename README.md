@@ -23,8 +23,10 @@
 ---
 
 ## 📸 Screenshots
-
+1 login page:
 ![image](https://github.com/user-attachments/assets/052f0bd0-f434-40ad-9530-e4c9901463c6)
+2 Home page:
+![image](https://github.com/user-attachments/assets/f0b1f328-c488-43d5-b8bd-c159fe745fea)
 
 
 ---
