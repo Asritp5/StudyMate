@@ -1,0 +1,22 @@
+{% extends 'main.html' %}
+
+{% block title %}
+    Edit comments 
+{% endblock title %}
+
+{% block content %}
+    <div>
+        <form method="POST" action="">
+            {% csrf_token %}
+            <p>
+                Are you sure you want to edit this comment:<br>{{ message.body }}?
+            </p>
+            <br>
+            <input type="text" name="comment" placeholder="Enter new comment" /><br>
+            <a href="{{request.META.HTTP_REFERER}}">Go back</a>
+            <input type="submit" value="Edit" />
+            
+            
+        </form>
+    </div>
+{% endblock content %}    

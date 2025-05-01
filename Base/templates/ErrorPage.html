@@ -1,0 +1,16 @@
+{% extends 'main.html' %}
+
+{% block title %}
+    Error Page
+{% endblock title %}
+
+{% block content %}
+    {% if messages %}
+    <h3>The following errors occurred:</h3>
+        {% for err_msg in messages %}
+            <h5>
+                {{err_msg}}
+            </h5>
+        {% endfor %}
+    {% endif %}
+{% endblock content %}
