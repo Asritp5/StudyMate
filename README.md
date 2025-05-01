@@ -31,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/07864fa6-ffdf-474d-833b-ec52415e7c2b)
 4. Create Room:<br>
 ![image](https://github.com/user-attachments/assets/1d9ce1f7-0d86-4486-8d6a-3e72b79b0898)
-5. Post messagess:
+5. Post messages:
 ![image](https://github.com/user-attachments/assets/ae5f7cf5-becd-4b55-b62a-e7967be0fb00)
 6. Delete:<br>
 ![image](https://github.com/user-attachments/assets/9fd37aec-8f12-4eac-9caf-10a5a2d7258e)
